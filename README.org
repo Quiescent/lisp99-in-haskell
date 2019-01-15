@@ -1,0 +1,5 @@
+* Lisp 99 in Haskell
+On the 14th of January 2018 the Lambda Luminaries met up to pair and
+mob to solve the Lisp 99 problems.  This project includes the first 13
+problems done with the Meetup.  I plan to do subsequent problems on my
+own.
